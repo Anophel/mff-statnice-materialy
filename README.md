@@ -38,11 +38,20 @@
 
 ## Informatika
 1. Automaty a jazyky
+   - automatyVse.pdf
 2. Algoritmy a datové struktury
+   - ADS1.pdf a ADS2.pdf
+   - pruvodce_labyrintem_algoritmu.pdf - skoro vše?
 3. Databáze
+   - Databaze/*.pdf
 4. Programovací jazyky
-5. Architekturapočítačů a operačních systémů
+   - Podle pojmů a jednotlivě je hledat, popřípadě Obecna_informatika.pdf
+5. Architektura počítačů a operačních systémů
+   - Google, Obecna_informatika.pdf nebo https://d3s.mff.cuni.cz/teaching/nswi143/lectures/
 6. PSS+SDI Základy sítí
+   - Sítě/*.pdf
 7. PSS+SDI Překladače
+   - Překladače/*.pdf
 8. PSS PG Počítačová grafika
+   - Prezentace https://cgg.mff.cuni.cz/~pepca/lectures/npgr003.slides.cz.php zbytek Google
 
